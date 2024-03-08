@@ -1,0 +1,27 @@
+.rbc-toolbar{
+    color: #895370;
+    padding: 4px;
+    font-weight: bold;
+}
+
+.rbc-header{
+    background: #52002a;
+    color: white;
+}
+
+.rbc-event{
+    padding: 8;
+    font-size: 10px;
+    background-color: #895370 !important;
+    color: white;
+}
+
+.rbc-event-in-progress {
+    background-color: #df3698;
+    color: white;
+}
+
+.rbc-today {
+    background-color: #eee0ea;
+    color: white;
+  }
