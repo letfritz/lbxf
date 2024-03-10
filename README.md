@@ -82,5 +82,5 @@ This project aims to create a website for the promotion of the Brazilian Women's
 
 The Brazilian Women's Chess League (LBXF) is an independent movement within the Brazilian chess community. Founded in 2013, LBXF brings together individuals who identify with the feminine identity. We aim to promote, develop, and exchange ideas among chess players and other stakeholders involved in chess in the country. We are active through working groups and project hubs to strengthen management, communication, tournament organization, academic-scientific research, and dissemination about women's chess, institutional relations, and coordination with event organizers in the field.
 
-See more in [![Blog](https://img.shields.io/website?label=LBXF.com&url=ligabrasileiraxadrezfeminino.com)](ligabrasileiraxadrezfeminino.com)
+See more in [![Blog](https://img.shields.io/website?label=LBXF.com&url=https://ligabrasileiraxadrezfeminino.com/home)](https://ligabrasileiraxadrezfeminino.com/home)
 
