@@ -30,6 +30,8 @@ const ProductPage = () => {
         years.push(product.ano);
       }
     });
+    // Ordenar os anos em ordem decrescente
+    years.sort((a, b) => b - a);
     return years;
   }
 
