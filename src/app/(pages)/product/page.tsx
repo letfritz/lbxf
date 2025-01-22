@@ -130,7 +130,7 @@ const ProductPage = () => {
                 <b>{t(`categories.${productsItem.category.toLowerCase()}`)}</b>
               </h3>
               )}
-              {productsItem.category === 'Dissertação de mestrado' || productsItem.category === 'Monografia de conclusão de curso' ? (
+              {productsItem.category === 'mestrado' || productsItem.category === 'doutorado' || productsItem.category === 'monografia' ? (
                 <p>
                   {productsItem.description1}{" "}
                   <a className="hover:text-highpink hover:font-bold text-mediumpink" href={productsItem.link} target="_blank" rel="noopener noreferrer">
