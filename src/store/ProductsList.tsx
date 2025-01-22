@@ -166,6 +166,16 @@ export const ProductsList = [
       link: "https://seer.ufrgs.br/index.php/Movimento/article/view/129244",
     },
     {
+      id: 21,
+      ano: 2024,
+      category: "artigos",
+      description1: "JANUÁRIO, J. et al. ",
+      clicked: "Gênero e poder no subcampo esportivo do xadrez: relações entre a geografia e as titulações da Federação Internacional de Xadrez. ",
+      description3: "Revista Diversidade e Educação",
+      description4: ", v. 12, n. 1, p. 1061-1090, 2024.",
+      link: "https://periodicos.furg.br/divedu/article/view/16381",
+    },
+    {
       id: 18,
       ano: 2024,
       category: "capitulo_livro",
@@ -196,15 +206,5 @@ export const ProductsList = [
       description3: " entre a reprodução e a não-reprodução.",
       description4: " 2024. 623 p. Tese (Doutorado em Educação Física) – Faculdade de Educação Física, Universidade Estadual de Campinas, Campinas, 2024.",
       link: "https://repositorio.unicamp.br/Acervo/Detalhe/1398359",
-    },
-    {
-      id: 21,
-      ano: 2024,
-      category: "artigos",
-      description1: "JANUÁRIO, J. et al. ",
-      clicked: "Gênero e poder no subcampo esportivo do xadrez: relações entre a geografia e as titulações da Federação Internacional de Xadrez. ",
-      description3: "Revista Diversidade e Educação",
-      description4: ", v. 12, n. 1, p. 1061-1090, 2024.",
-      link: "https://periodicos.furg.br/divedu/article/view/16381",
     },
   ];
