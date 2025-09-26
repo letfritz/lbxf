@@ -64,4 +64,9 @@ export const IntegrantesList = [
     name: 'Cristiana Fiusa Carneiro',
     avatar: "/integrantes_gt/Cristina_Carneiro.jpeg"
   },
+  {
+    id: 14,
+    name: 'Daniela de Lourdes Dias Filgueiras',
+    avatar: "/integrantes_gt/Daniela_Filgueioras.jpeg"
+  },
 ];
